@@ -12,3 +12,5 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Banda-CharithSai/Kaiburr-task5.git
 cd Kaiburr-task5
+<img width="568" alt="image" src="https://github.com/Banda-CharithSai/Kaiburr-task5/assets/93471051/be95f658-b48d-423e-8360-8220eed56130">
+<img width="1470" alt="image" src="https://github.com/Banda-CharithSai/Kaiburr-task5/assets/93471051/ef81b13f-34d2-4b04-b8ee-83ff694b6bca">
